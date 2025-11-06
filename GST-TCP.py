@@ -320,7 +320,7 @@ def newinfo(uid):
     # Parameters dictionary - this is the robust way to do it
     params = {
         'uid': uid,
-        'region': 'bd'  # Hardcoded to bd as requested
+        'region': 'ind'  # Hardcoded to ind as requested
     }
     try:
         # Pass the parameters to requests.get()
